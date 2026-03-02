@@ -1,0 +1,31 @@
+# React Native
+# React Native
+node_modules/
+# Yarn
+.yarn-integrity
+# Expo
+.expo/
+# Build files
+*.jsbundle
+# Logs
+*.log
+# IDEs
+# VS Code
+.vscode/
+# JetBrains
+.idea/
+# iOS
+# Build
+build/
+# Derived Data
+DerivedData/
+# Xcode
+*.xcworkspace
+*.xcuserdata/
+# Android
+# Gradle
+.gradle/
+# Build
+app/build/outputs/
+# Local configuration file
+local.properties
